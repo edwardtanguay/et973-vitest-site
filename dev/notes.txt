@@ -2,6 +2,11 @@
 - x minimimze site
 - x sass
 - x tailwind
+- x create capitalizeFirstLetter()
+- x create tests for it
 
-- create capitalizeFirstLetter()
-- create tests for it
+- .. publish site to Vercel
+- add vitest to npm run build
+- show that Vercel will not publish when testing fails
+
+
