@@ -1,4 +1,6 @@
 - x local repo einrichten
 - x minimimze site
-- .. sass
-- tailwind
+- x sass
+- x tailwind
+- create capitalizeFirstLetter()
+- create tests for it
