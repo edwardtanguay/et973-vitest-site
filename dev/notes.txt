@@ -1,1 +1,2 @@
-- .. local repo einrichten
+- x local repo einrichten
+- .. minimimze site
