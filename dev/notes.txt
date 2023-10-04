@@ -1,2 +1,4 @@
 - x local repo einrichten
-- .. minimimze site
+- x minimimze site
+- .. sass
+- tailwind
