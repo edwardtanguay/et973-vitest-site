@@ -7,7 +7,7 @@
 */
 export const capitalizeFirstLetter = (text: string) => {
 	let r = text;
-	// r = r.trim();
+	r = r.trim();
 	r = r.charAt(0).toUpperCase() + r.slice(1);
 	return r;
 }
